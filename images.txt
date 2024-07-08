@@ -4,3 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 easychen/cookiecloud
 iyuucn/iyuuplus-dev
+linuxserver/qbittorrent
