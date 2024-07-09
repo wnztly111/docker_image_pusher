@@ -5,3 +5,4 @@ xhofe/alist:latest
 easychen/cookiecloud
 iyuucn/iyuuplus-dev
 linuxserver/qbittorrent
+ddsderek/wxchat:latest
