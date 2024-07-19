@@ -7,3 +7,4 @@ iyuucn/iyuuplus-dev
 linuxserver/qbittorrent
 ddsderek/wxchat:latest
 farjar/weworkpush:latest
+snowdreamtech/frpc:latest
