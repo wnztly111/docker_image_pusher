@@ -8,3 +8,4 @@ linuxserver/qbittorrent
 ddsderek/wxchat:latest
 farjar/weworkpush:latest
 snowdreamtech/frpc:latest
+xinjiawei1/emby_unlockd:latest
